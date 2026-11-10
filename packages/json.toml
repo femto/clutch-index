@@ -1,0 +1,6 @@
+name = "json"
+repo = "https://github.com/femto/egg-json"
+
+[[release]]
+version = "0.1.0"
+ref = "15fbb78a656705837f7f4153a0d236106b5b8af0"

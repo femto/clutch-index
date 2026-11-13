@@ -1,0 +1,6 @@
+name = "tls"
+repo = "https://github.com/femto/egg-tls"
+
+[[release]]
+version = "0.1.0"
+ref = "0e66978ebc58aa3ece950b10a7ef2cdf0dc8e4d6"

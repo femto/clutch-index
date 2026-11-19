@@ -1,0 +1,6 @@
+name = "timezone"
+repo = "https://github.com/femto/egg-timezone"
+
+[[release]]
+version = "0.1.0"
+ref = "f2f8931c3c7a56ccd8ef728f90226ec730498083"

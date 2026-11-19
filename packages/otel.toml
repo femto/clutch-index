@@ -1,0 +1,6 @@
+name = "otel"
+repo = "https://github.com/femto/egg-otel"
+
+[[release]]
+version = "0.2.0"
+ref = "1ccedf4e184aa2ea2d023b9c7b7f3e57b6fc1eb5"

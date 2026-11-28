@@ -8,3 +8,7 @@ ref = "0e66978ebc58aa3ece950b10a7ef2cdf0dc8e4d6"
 [[release]]
 version = "0.2.0"
 ref = "46b0d376fb1eedca504434161788af17c4879387"
+
+[[release]]
+version = "0.3.0"
+ref = "0132acf916c4e464e178450898acc1c99908e386"

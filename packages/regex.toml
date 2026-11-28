@@ -4,3 +4,7 @@ repo = "https://github.com/femto/egg-regex"
 [[release]]
 version = "0.1.0"
 ref = "f2f1db436ee5ad21bcc50269cb747abf6f391e65"
+
+[[release]]
+version = "0.1.1"
+ref = "83253c19972e60f57b5ff1139d0b83c57937ffe0"
